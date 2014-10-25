@@ -1,0 +1,1 @@
+Pulverizers can process cobble to gravel, gravel to sand and sand to dust allowing you to more easily automate the ore production for your material needs. All it takes is a little power to run.

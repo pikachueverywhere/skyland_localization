@@ -1,0 +1,1 @@
+During the course of playing you are going to end up with a lot of books that guide you through the mods and the map. Rather than keep them in seperate inventory slots you can combine them into a book binder. Any book in a book binder can be accessed by right clicking it from inside the book binder GUI.

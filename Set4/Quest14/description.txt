@@ -1,0 +1,1 @@
+For true genetic control you will need a way to analyze the bees and trees you are breeding. The analyzers are fueled by honey or honeydew drops that can be retrived from combs via the use of a centrifuge. 

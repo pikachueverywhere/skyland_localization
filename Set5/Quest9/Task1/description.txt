@@ -1,0 +1,1 @@
+Right clicking with a sigil will activate its abilities. It will pull power first from anything stored in your blood netwrok and then directly from your life.

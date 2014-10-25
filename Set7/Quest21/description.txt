@@ -1,0 +1,1 @@
+Mob essence is gathered by using a MFR grinder to kill passive and hostile mobs. It can be used as fuel in a reactant dynamo. It isused primarily for fueling an AutoSpawner or the enchanting machines from MFR.

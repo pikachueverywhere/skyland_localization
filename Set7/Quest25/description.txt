@@ -1,0 +1,1 @@
+Biofuel is created using a BioReactor. The more different kinds of plantable items (seeds, saplings) you place in the reactor the more efficient it will be in creating biofuel. BioFuel can be used to run BioGenerators to supply power to your machines. Biofuel can be used in a compression dynamo for fuel.

@@ -1,0 +1,1 @@
+An angry doll will spawn a blaze if you right click a stone barrel of lava while holding the doll.

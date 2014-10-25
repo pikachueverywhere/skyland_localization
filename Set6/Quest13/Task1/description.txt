@@ -1,0 +1,1 @@
+A task where the player can hand in items or fluids. One can also use the Quest Delivery System to submit items and fluids.

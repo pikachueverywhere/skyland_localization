@@ -1,0 +1,1 @@
+Ethanol is created by taking BioMass from a fermenter and running it through a Still. It can be used as fuel in the compression dynamo.

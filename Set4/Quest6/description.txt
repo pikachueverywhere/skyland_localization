@@ -1,0 +1,1 @@
+Gendustry and Extra Bees add machines that can be used to remove genes from one bee and inject them onto another bee. You cannot select which gene you will get when pulling genes off and both mods will eat the bees to produce the genes for manipulation so it is best to wait until you have excess drones to use for gene manipulation. 

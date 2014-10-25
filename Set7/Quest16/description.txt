@@ -1,0 +1,1 @@
+Sewage can be gotten by placing sewers near passive mobs and villagers. Sewer range can be upgraded, but 2 sewer cannot have overlapping ranges. The sewer will also collect mob essence that drops on the ground during mob breeding.

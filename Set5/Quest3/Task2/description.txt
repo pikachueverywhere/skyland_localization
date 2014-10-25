@@ -1,0 +1,1 @@
+The Thaumometer is used to scan items and detect the aspects that go into their creation. Right clicking while holding the Thaumometer and looking at a block through it will discover aspects for use in magical crafting. If the item has an inventory or GUI like a chest , sneak while scanning to get the aspects. 

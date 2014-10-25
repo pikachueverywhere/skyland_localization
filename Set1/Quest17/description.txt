@@ -1,0 +1,1 @@
+Putting gravel, sand, and dust through a sieve by right clicking will give you broken ore, crushed ore and pulverized ores. It will also get your redstone,glowstone , bonemeal and other dusts. Try sieving other blocks when you have them to see what other resources you can get. You may be surprised at what can be sieved.

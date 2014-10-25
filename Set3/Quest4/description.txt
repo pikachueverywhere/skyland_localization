@@ -1,0 +1,1 @@
+Steelworks allows you to make large multi-block tanks capable of holding multiple fluids. Storing 2 different metals in the same tank will not create alloys. The Steelworks book will show you the pattern needed to make the tanks.

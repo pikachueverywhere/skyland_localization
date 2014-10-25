@@ -1,0 +1,1 @@
+Bees can be moved in and out of Apiaries with item ducts. Once you get to the point of mass production though you may want better production. Industrial Apiaries can be customized to make your bees happy through the use of various upgrades. Industrial Apiaries require RF power but take up less space. Both AE and itemducts can also be used on the industrial apiaries. 

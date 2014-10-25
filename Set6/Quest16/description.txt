@@ -1,0 +1,1 @@
+MFR Deep Storage units can store up to 2 billion of a single item or block. What you use that 2 billion cobble for is up to you.

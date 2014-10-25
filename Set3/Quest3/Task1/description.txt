@@ -1,0 +1,1 @@
+To reach the temperature needed to create steel the High Oven needs to be 4 blocks high. Place the controller at least 1 block higher than the bottom row and at least one block lower than the top row.

@@ -1,0 +1,1 @@
+The second type of quest is the "consume" quest. You will not get the items back after turning them in. They vanish into the stomach of the giant void monster thereby preventing him from eating you alive. Consume quests can be completed by collecting the items required and clicking the "Manual Submit" button at the bottom right of the book under the quest requirments.

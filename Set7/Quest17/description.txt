@@ -1,0 +1,1 @@
+Milk is most easily retrieved by using a Rancher on cows. Without automation cows have a cooldown on how often they can be milked.

@@ -1,0 +1,1 @@
+Placing 4 broken ores of the same type in a crafting grid will get you gravel ore. Beating this ore with a hammer will get you crushed ore.

@@ -1,0 +1,1 @@
+A killing quest requires you to kill a certain number of mobs to complete it. It may require a specific mob  or mob type. It may require hostile mobs or passive mobs. The book will track the mobs that count towards the goal.

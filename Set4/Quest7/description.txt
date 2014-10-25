@@ -1,0 +1,1 @@
+Frames can be used in Apiaries and Alvearies to increase production. Production can be increased with upgrades in the industrial apiaries. All frames increase production by the same ammount. However different frames last longer. Extra Bees and Magic Bees add special frames that increase mutation rate or life span.

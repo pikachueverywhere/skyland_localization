@@ -1,0 +1,1 @@
+Steam is an awesome source of power. It can be fed to dynamos, MFR steam turbines, or Big Reactor turbines. Steam can be produced by pumping water into a High Oven and using charcoal to heat it into a vapor. Use drains to move the steam into Deep Tanks for storage or directly into one of the devices that can turn the steam into power.

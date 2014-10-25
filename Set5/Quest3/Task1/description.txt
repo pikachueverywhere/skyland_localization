@@ -1,0 +1,1 @@
+Right clicking on 2 tables placed next to each toher with scribing tools will create a research table.

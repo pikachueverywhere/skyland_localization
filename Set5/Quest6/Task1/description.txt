@@ -1,0 +1,1 @@
+Right-clicking the altar with the sigil will tell you how much life essence is in the altar, right clicking anywhere else will tell you how much you have stored in your blood network of orbs for powering spells rituals and alchemy.

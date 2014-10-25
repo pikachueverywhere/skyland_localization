@@ -1,0 +1,1 @@
+Breaking ore gravel with a hammer will get you crushed ore which can be combined into ore sand and processed with a hammer into pulverized ore.

@@ -1,0 +1,1 @@
+Pretty soon you are going to need even more storage and crafting ability. Applied Energistics allows you to turn blocks and items into code stored on Storage Drives and access these digital items to craft. Storage busses can be used to hook external storage devices such as barrels into the central crafting computer. 

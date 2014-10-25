@@ -1,0 +1,1 @@
+Industrial apiaries can be upgraded to mimic different biomes, increase the production of the bees and even collect pollen for tree breeding. Each upgrade has a limit to how many can be installed. You can only have 4 different types of upgrades in one apiary and each upgrade increases the power drain.
