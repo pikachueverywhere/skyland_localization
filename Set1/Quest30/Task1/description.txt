@@ -1,1 +1,1 @@
-A task where the player has to kill certain monsters.
+一个需要玩家杀死某种生物的任务.

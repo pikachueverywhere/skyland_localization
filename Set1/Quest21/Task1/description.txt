@@ -1,1 +1,1 @@
-A task where the player needs specific items. These do not have to be handed in, having them in one's inventory is enough.
+一种玩家需要特定物品的任务.不必拿在手中,只需要将它们放在物品栏中即可.

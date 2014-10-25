@@ -1,1 +1,1 @@
-A killing quest requires you to kill a certain number of mobs to complete it. It may require a specific mob  or mob type. It may require hostile mobs or passive mobs. The book will track the mobs that count towards the goal.
+完成猎杀任务需要杀死特定数量的生物.目标可能是指定的生物或者指定类型的生物.目标既可能是怪物也可能是动物.这本书将会记录你杀死相关生物达成任务要求的数量.
