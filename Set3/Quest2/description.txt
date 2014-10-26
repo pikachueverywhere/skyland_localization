@@ -1,1 +1,2 @@
 Reactors are the perfect late game power source. Minor radiation shouldn't hurt anyone.TO get started on making the ultimate power gen you will need Yellorium, and Graphite. Graphite is made by smelting coal or charcoal in a furnace. Yellorium can be processed from Nether Uranium Ore or by combining pulverized tin and sulfur.
+核反应堆是理想的游戏后期能源, 低辐射剂量不会对任何人造成伤害. 为了利用这个终极能源, 你需要黄铀和石墨. 石墨由熔炉中烧制煤炭或木炭获得, 而黄铀则由下界铀矿加工而来, 或者把锡粉和硫粉混合在一起.
